@@ -11,3 +11,20 @@ This project consists of coding a function that returns one line at a time from 
 
 For more detailed information, look at the [**subject of this project**](https://cdn.intra.42.fr/pdf/pdf/138347/en.subject.pdf)
 
+# 🛠️ Usage
+
+### Instructions
+
+**1. Using it in your code**
+
+To use the function in your code, simply include its header:
+
+```C
+#include "get_next_line.h"
+```
+
+and, when compiling your code, add the source files and the required flag:
+
+```shell
+get_next_line.c get_next_line_utils.c -D BUFFER_SIZE=<size>
+```
