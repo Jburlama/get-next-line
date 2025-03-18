@@ -9,8 +9,6 @@ This task is crucial to understand for a future programmer since much of the tim
 on manipulating files for data management and persistence.
 This project consists of coding a function that returns one line at a time from a text file.
 
-For more detailed information, look at the [**subject of this project**](https://cdn.intra.42.fr/pdf/pdf/138347/en.subject.pdf)
-
 # 🛠️ Usage
 
 ### Instructions
